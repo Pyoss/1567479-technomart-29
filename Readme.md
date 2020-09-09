@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Игорь Кирия](https://up.htmlacademy.ru/htmlcss/29/user/1567479).
-* Наставник: `Неизвестно`.
+* Наставник: [Атмир Атаев](https://htmlacademy.ru/profile/atmirataev).
 
 ---
 
